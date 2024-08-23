@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1697065000 source:c:\users\sttv\documents\codigos\c\matriz\main.c
+	<stdio.h>
+	"Matriz.h"
+
+1697064631 source:c:\users\sttv\documents\codigos\c\matriz\matriz.c
+	"Matriz.h"
+	<stdio.h>
+	<stdlib.h>
+
+1697063908 c:\users\sttv\documents\codigos\c\matriz\matriz.h
+
+1698521001 source:c:\users\sttv\documents\github\matriz-dinamica\matriz\main.c
+	<stdio.h>
+	"matriz.h"
+
+1698521164 c:\users\sttv\documents\github\matriz-dinamica\matriz\matriz.h
+
+1698522546 source:c:\users\sttv\documents\github\matriz-dinamica\matriz\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1724448068 source:c:\users\sttv\documents\codigos\c\2024.1.2\trabalho 1 - encadeamento\trabalho 01 - matriz\matriz\matriz\main.c
+	<stdio.h>
+	"Matriz.h"
+
+1724446989 c:\users\sttv\documents\codigos\c\2024.1.2\trabalho 1 - encadeamento\trabalho 01 - matriz\matriz\matriz\matriz.h
+
+1724448776 source:c:\users\sttv\documents\codigos\c\2024.1.2\trabalho 1 - encadeamento\trabalho 01 - matriz\matriz\matriz\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"Matriz.h"
+

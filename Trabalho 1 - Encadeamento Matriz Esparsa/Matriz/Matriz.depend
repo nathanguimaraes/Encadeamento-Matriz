@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1724432145 source:c:\users\sttv\documents\codigos\c\2024.1.2\matrizes\matrizesparsa\matriz\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"Matriz.h"
+
+1724432120 c:\users\sttv\documents\codigos\c\2024.1.2\matrizes\matrizesparsa\matriz\matriz.h
+
+1724432375 source:c:\users\sttv\documents\codigos\c\2024.1.2\trabalho 1 - encadeamento matriz esparsa\matriz\main.c
+	<stdio.h>
+	"Matriz.h"
+
+1724432120 c:\users\sttv\documents\codigos\c\2024.1.2\trabalho 1 - encadeamento matriz esparsa\matriz\matriz.h
+
