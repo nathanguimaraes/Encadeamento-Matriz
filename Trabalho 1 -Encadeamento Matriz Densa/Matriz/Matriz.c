@@ -13,7 +13,7 @@ Matriz* criarMatriz(int linhas, int colunas) {
         matriz->elementos[i] = (No**)malloc(colunas * sizeof(No*));
         for (int j = 0; j < colunas; j++) {
             matriz->elementos[i][j] = (No*)malloc(sizeof(No));
-            matriz->elementos[i][j]->valor = 0;
+            matriz->elementos[i][j]->valor = 0; //definido valores
             matriz->elementos[i][j]->anterior = NULL;
             matriz->elementos[i][j]->proximo = NULL;
         }
